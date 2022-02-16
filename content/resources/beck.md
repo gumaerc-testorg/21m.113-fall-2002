@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Sample Student Project 1: Becky'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-113-developing-musical-structures-fall-2002/f3ba82d431034739271e1e9afe4a8e24_BECK.MIDI
+file: /media/courses/21m-113-developing-musical-structures-fall-2002/f3ba82d431034739271e1e9afe4a8e24_BECK.MIDI
 file_type: audio/midi
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: BECK.MIDI
 uid: f3ba82d4-3103-4739-271e-1e9afe4a8e24

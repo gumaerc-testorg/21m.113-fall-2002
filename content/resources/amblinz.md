@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Sample Student Project 1: Linz?s Ambrosian'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-113-developing-musical-structures-fall-2002/67ff6ed2d8baf058b4793cab706baed5_AMBLINZ.MIDI
+file: /media/courses/21m-113-developing-musical-structures-fall-2002/67ff6ed2d8baf058b4793cab706baed5_AMBLINZ.MIDI
 file_type: audio/midi
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: AMBLINZ.MIDI
 uid: 67ff6ed2-d8ba-f058-b479-3cab706baed5
