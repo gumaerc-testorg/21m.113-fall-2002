@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 81e2c30b-2573-45ae-668f-639b862cee55
 resourcetype: Other
 title: DUPLE.MIDI
 uid: e888d9f3-fa65-66d3-aecc-8da19abe5368

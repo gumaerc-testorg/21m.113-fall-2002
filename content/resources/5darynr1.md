@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 81e2c30b-2573-45ae-668f-639b862cee55
 resourcetype: Other
 title: 5DARYNR1.MIDI
 uid: c67de10a-db70-418b-22a1-3b538d300320

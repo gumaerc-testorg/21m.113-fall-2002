@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 81e2c30b-2573-45ae-668f-639b862cee55
 resourcetype: Document
 title: ambrosian.pdf
 uid: e9bd367e-1659-fa56-b5ee-4446be3d092b

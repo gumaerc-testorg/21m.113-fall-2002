@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 81e2c30b-2573-45ae-668f-639b862cee55
 resourcetype: Document
 title: GLENNSAMBROSIAN.pdf
 uid: e10544f3-ea6d-e1bd-bcb2-14cdde13fdb4

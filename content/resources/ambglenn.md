@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 81e2c30b-2573-45ae-668f-639b862cee55
 resourcetype: Other
 title: AMBglenn.MIDI
 uid: 67252555-9b0e-00ae-cd2e-6b491fbd73d4

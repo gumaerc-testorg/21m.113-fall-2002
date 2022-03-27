@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 81e2c30b-2573-45ae-668f-639b862cee55
 resourcetype: Document
 title: BECKYSFRENCH.pdf
 uid: 8a2576c9-c412-449f-6b07-1ee3f11c790c
