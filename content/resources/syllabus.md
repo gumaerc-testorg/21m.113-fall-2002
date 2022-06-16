@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Developing Musical Structures
-file: /media/courses/21m-113-developing-musical-structures-fall-2002/397263be5c9716e208b5214973574273_syllabus.pdf
+file: /courses/21m-113-developing-musical-structures-fall-2002/397263be5c9716e208b5214973574273_syllabus.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Document
 title: syllabus.pdf
 uid: 397263be-5c97-16e2-08b5-214973574273
 ---
+Developing Musical Structures
+

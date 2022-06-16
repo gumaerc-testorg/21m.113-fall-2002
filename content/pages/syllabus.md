@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -14,7 +15,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Course Overview
 ---------------
 
-Syllabus ([PDF]({{< baseurl >}}/resources/syllabus))
+Syllabus ({{% resource_link 397263be-5c97-16e2-08b5-214973574273 "PDF" %}})
 
 "When we go about the spontaneous, intuitive performance of the actions of everyday life, we show ourselves to be knowledgeable in a special way. Often we cannot say what it is that we know. When we try to describe it we find ourselves at a loss, or we produce descriptions that are obviously inappropriate. Our knowing is ordinarily tacit, implicit in our patterns of action and in our feel for the stuff with which we are dealing. It seems right to say that our knowledge is in our action."  
 **Don Schön: _The Reflective Practitioner_**
