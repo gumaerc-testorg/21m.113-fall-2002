@@ -5,6 +5,7 @@ file: /courses/21m-113-developing-musical-structures-fall-2002/67ff6ed2d8baf058b
 file_type: audio/midi
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: AMBLINZ.MIDI
 uid: 67ff6ed2-d8ba-f058-b479-3cab706baed5
 ---
 Sample Student Project 1: Linz?s Ambrosian
-

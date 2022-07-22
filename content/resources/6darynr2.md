@@ -5,6 +5,7 @@ file: /courses/21m-113-developing-musical-structures-fall-2002/e44025d18dad3b12c
 file_type: audio/midi
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 6DARYNR2.MIDI
 uid: e44025d1-8dad-3b12-c933-03cdc9eea653
 ---
 Sample Student Project 4: 3
-

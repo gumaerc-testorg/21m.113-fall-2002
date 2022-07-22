@@ -5,6 +5,7 @@ file: /courses/21m-113-developing-musical-structures-fall-2002/ba266e50e52621878
 file_type: audio/midi
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MAKETUNER.MIDI
 uid: ba266e50-e526-2187-8bb7-e9975d24872d
 ---
 Sample Student Project 4: 8
-

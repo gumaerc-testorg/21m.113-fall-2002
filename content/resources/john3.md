@@ -5,6 +5,7 @@ file: /courses/21m-113-developing-musical-structures-fall-2002/d455b87fe9f3bc171
 file_type: audio/midi
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: John3.MIDI
 uid: d455b87f-e9f3-bc17-15e6-058aaba071b1
 ---
 Sample Student Project 4: 7
-

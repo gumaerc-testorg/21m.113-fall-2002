@@ -5,6 +5,7 @@ file: /courses/21m-113-developing-musical-structures-fall-2002/9a8be78158cb694df
 file_type: audio/midi
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 8BENR2.MIDI
 uid: 9a8be781-58cb-694d-f690-d7cc8f311536
 ---
 Sample Student Project 4: 5
-

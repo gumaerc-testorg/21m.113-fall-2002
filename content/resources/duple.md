@@ -5,6 +5,7 @@ file: /courses/21m-113-developing-musical-structures-fall-2002/e888d9f3fa6566d3a
 file_type: audio/midi
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: DUPLE.MIDI
 uid: e888d9f3-fa65-66d3-aecc-8da19abe5368
 ---
 Sample Student Project 2: Duple
-

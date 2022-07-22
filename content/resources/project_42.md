@@ -5,6 +5,7 @@ file: /courses/21m-113-developing-musical-structures-fall-2002/9af7cf2f36306216c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Project_42.pdf
 uid: 9af7cf2f-3630-6216-cdde-b5750f56a3c5
 ---
 Project 4.2
-
