@@ -2,6 +2,7 @@
 content_type: resource
 description: Duple Meter
 file: /courses/21m-113-developing-musical-structures-fall-2002/eb484d75f62663d842bc3a81a1b61b86_Project2x.pdf
+file_size: 90059
 file_type: application/pdf
 learning_resource_types:
 - Assignments

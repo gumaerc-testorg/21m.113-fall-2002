@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Sample Student Project 2: Duple1'
 file: /courses/21m-113-developing-musical-structures-fall-2002/ebb6dd207f1d1f46507c173de470eb29_DUPLE1.MIDI
+file_size: 634
 file_type: audio/midi
 learning_resource_types:
 - Assignments

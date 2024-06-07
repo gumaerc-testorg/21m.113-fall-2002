@@ -2,6 +2,7 @@
 content_type: resource
 description: Developing Musical Structures
 file: /courses/21m-113-developing-musical-structures-fall-2002/397263be5c9716e208b5214973574273_syllabus.pdf
+file_size: 101892
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

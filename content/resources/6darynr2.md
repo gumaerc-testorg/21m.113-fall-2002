@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Sample Student Project 4: 3'
 file: /courses/21m-113-developing-musical-structures-fall-2002/e44025d18dad3b12c93303cdc9eea653_6DARYNR2.MIDI
+file_size: 219
 file_type: audio/midi
 learning_resource_types:
 - Assignments
