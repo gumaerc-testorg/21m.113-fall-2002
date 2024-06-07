@@ -2,6 +2,7 @@
 content_type: resource
 description: Glenn's Ambrosian
 file: /courses/21m-113-developing-musical-structures-fall-2002/e10544f3ea6de1bdbcb214cdde13fdb4_GLENNSAMBROSIAN.pdf
+file_size: 68756
 file_type: application/pdf
 learning_resource_types:
 - Assignments
