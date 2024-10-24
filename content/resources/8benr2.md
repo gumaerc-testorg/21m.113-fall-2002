@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Sample Student Project 4: 5'
-file: /courses/21m-113-developing-musical-structures-fall-2002/9a8be78158cb694df690d7cc8f311536_8BENR2.MIDI
+file: /ol-ocw-studio-app/courses/21m-113-developing-musical-structures-fall-2002/9a8be78158cb694df690d7cc8f311536_8BENR2.MIDI
 file_size: 219
 file_type: audio/midi
 learning_resource_types:

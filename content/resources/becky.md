@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Becky
-file: /courses/21m-113-developing-musical-structures-fall-2002/853045f26bc22f197b48d591c0ba88b9_becky.pdf
+file: /ol-ocw-studio-app/courses/21m-113-developing-musical-structures-fall-2002/853045f26bc22f197b48d591c0ba88b9_becky.pdf
 file_size: 8276
 file_type: application/pdf
 learning_resource_types:
