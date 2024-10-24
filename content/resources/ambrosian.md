@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Ambrosian
-file: /courses/21m-113-developing-musical-structures-fall-2002/e9bd367e1659fa56b5ee4446be3d092b_ambrosian.pdf
+file: /ol-ocw-studio-app/courses/21m-113-developing-musical-structures-fall-2002/e9bd367e1659fa56b5ee4446be3d092b_ambrosian.pdf
 file_size: 70753
 file_type: application/pdf
 learning_resource_types:
