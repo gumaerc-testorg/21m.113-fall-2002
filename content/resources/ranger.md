@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21m-113-developing-musical-structures-fall-2002/385d22d816ad12d649bf54f8352ab099_RANGER.MIDI
+file: /courses/21m-113-developing-musical-structures-fall-2002/385d22d816ad12d649bf54f8352ab099_RANGER.MIDI
 file_size: 412
 file_type: audio/midi
 learning_resource_types: []
