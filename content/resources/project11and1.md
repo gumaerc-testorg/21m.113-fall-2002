@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Becky's French
-file: /ol-ocw-studio-app/courses/21m-113-developing-musical-structures-fall-2002/1d2970085bdaed79e1c440c2986112b3_project11and1.pdf
+file: /courses/21m-113-developing-musical-structures-fall-2002/1d2970085bdaed79e1c440c2986112b3_project11and1.pdf
 file_size: 175463
 file_type: application/pdf
 learning_resource_types:

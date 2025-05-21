@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Sample Student Project 1: Linz?s Ambrosian'
-file: /ol-ocw-studio-app/courses/21m-113-developing-musical-structures-fall-2002/67ff6ed2d8baf058b4793cab706baed5_AMBLINZ.MIDI
+file: /courses/21m-113-developing-musical-structures-fall-2002/67ff6ed2d8baf058b4793cab706baed5_AMBLINZ.MIDI
 file_size: 450
 file_type: audio/midi
 learning_resource_types:

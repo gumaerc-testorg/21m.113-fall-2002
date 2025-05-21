@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Sample Student Project 2: Duple2'
-file: /ol-ocw-studio-app/courses/21m-113-developing-musical-structures-fall-2002/f99699fbd5616040e17de5a6737ba53d_DUPLE2.MIDI
+file: /courses/21m-113-developing-musical-structures-fall-2002/f99699fbd5616040e17de5a6737ba53d_DUPLE2.MIDI
 file_size: 1129
 file_type: audio/midi
 learning_resource_types:
