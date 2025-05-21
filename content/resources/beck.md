@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Sample Student Project 1: Becky'
-file: /ol-ocw-studio-app/courses/21m-113-developing-musical-structures-fall-2002/f3ba82d431034739271e1e9afe4a8e24_BECK.MIDI
+file: /courses/21m-113-developing-musical-structures-fall-2002/f3ba82d431034739271e1e9afe4a8e24_BECK.MIDI
 file_size: 676
 file_type: audio/midi
 learning_resource_types:
