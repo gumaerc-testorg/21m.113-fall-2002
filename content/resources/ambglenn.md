@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Sample Student Project 1: Glenn?s Ambrosian'
-file: /courses/21m-113-developing-musical-structures-fall-2002/672525559b0e00aecd2e6b491fbd73d4_AMBglenn.MIDI
+file: /ol-ocw-studio-app/courses/21m-113-developing-musical-structures-fall-2002/672525559b0e00aecd2e6b491fbd73d4_AMBglenn.MIDI
 file_size: 1214
 file_type: audio/midi
 learning_resource_types:
