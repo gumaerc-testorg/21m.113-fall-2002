@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Project 4.2
-file: /courses/21m-113-developing-musical-structures-fall-2002/9af7cf2f36306216cddeb5750f56a3c5_Project_42.pdf
+file: /ol-ocw-studio-app/courses/21m-113-developing-musical-structures-fall-2002/9af7cf2f36306216cddeb5750f56a3c5_Project_42.pdf
 file_size: 127385
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lins?s Ambrosian
-file: /courses/21m-113-developing-musical-structures-fall-2002/5a4d2baa9909b76c122af29f7612b15e_LINZSAMBROSIAN.pdf
+file: /ol-ocw-studio-app/courses/21m-113-developing-musical-structures-fall-2002/5a4d2baa9909b76c122af29f7612b15e_LINZSAMBROSIAN.pdf
 file_size: 90251
 file_type: application/pdf
 learning_resource_types:
